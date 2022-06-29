@@ -1,1 +1,2 @@
-# pratham-database
+# synchronousBallMovement
+Ball moving synchronously
